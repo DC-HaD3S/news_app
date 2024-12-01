@@ -18,7 +18,7 @@ import retrofit2.Callback;
 import retrofit2.Response;
 
 public class EntertainmentFragment extends Fragment {
-    String api = "d0e7361fe3d64640b011faa36cc7f366";
+    String api = "";
     ArrayList<ModalClass> modelClassArrayList;
     Adapter adapter;
     String country = "in";
