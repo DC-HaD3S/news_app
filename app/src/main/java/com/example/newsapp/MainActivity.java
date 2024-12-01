@@ -16,7 +16,7 @@ public class MainActivity extends AppCompatActivity {
     PagerAdapter pagerAdapter;
     Toolbar mtoolbar;
 
-    String api="d0e7361fe3d64640b011faa36cc7f366";
+    String api="";
 
 
 
